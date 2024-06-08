@@ -138,4 +138,5 @@ REST_FRAMEWORK ={
     #     'anon': '5/day',
     #     #'user': '1000/day'
     # }
+    
 }
